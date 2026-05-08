@@ -1,0 +1,25 @@
+## **初识JVM**
+
+**Java虚拟机就是二进制字节码的运行环境**, 负责装载字节码到其内部, 解释/编译为对应平台上的机器指令执行, 每一条Java指令, Java虚拟机规范中都有详细定义
+
+以下Java虚拟机支持的语言
+
+![01](E:\Projects\github\jvm\JVM\images\01\01.png)
+
+Java虚拟机类比
+
+![02](E:\Projects\github\jvm\JVM\images\01\02.png)
+
+**特点**
+
+1. 一次编译, 到处运行
+
+2. 自动内存管理
+
+3. 自动垃圾回收功能
+
+
+
+![03](E:\Projects\github\jvm\JVM\images\01\03.png)
+
+![04](E:\Projects\github\jvm\JVM\images\01\04.png)
