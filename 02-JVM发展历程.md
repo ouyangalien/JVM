@@ -30,4 +30,5 @@
 
 - 只在Solaris平台短暂使用，其他平台上还是classic vm
 
-​	`英雄气短，终被Hotspot虚拟机替换`
+  `英雄气短，终被Hotspot虚拟机替换`
+
