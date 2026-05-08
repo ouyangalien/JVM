@@ -4,11 +4,11 @@
 
 以下Java虚拟机支持的语言
 
-![01](E:\Projects\github\jvm\JVM\images\01\01.png)
+![01](.\images\01\01.png)
 
 Java虚拟机类比
 
-![02](E:\Projects\github\jvm\JVM\images\01\02.png)
+![02](.\images\01\02.png)
 
 **特点**
 
@@ -20,6 +20,6 @@ Java虚拟机类比
 
 
 
-![03](E:\Projects\github\jvm\JVM\images\01\03.png)
+![03](.\images\01\03.png)
 
-![04](E:\Projects\github\jvm\JVM\images\01\04.png)
+![04](.\images\01\04.png)
